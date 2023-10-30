@@ -1,0 +1,27 @@
+
+==================================================================================================================================
+||    1.Project name - //"Legendary Origins"//                                                                                  ||
+||                                                                                                                              ||
+||    2.Project Version - //"1.2310.3"//                                                                                        ||
+||                                                                                                                              ||
+||    3.Project Type - //"translation"//                                                                                        ||
+||                                                                                                                              ||
+||    4.Description                                                                                                             ||
+||      //   "The json file contains the translated descriptions for the mod.                                             \\    ||
+||      ||    The json file is compatible with legendary_origins_1.2310.3 and can be installed easily.                    ||    ||
+||      \\    The translations are completed and verified by the legendary origin translation team member - White_Biggy." //    ||
+||                                                                                                                              ||
+||                                                                                                                              ||
+||    4.Changelog                                                                                                               ||
+||                                                                                                                              ||
+||       --A large amount of machine-translated text was deleted, and the errors between the Chinese text and the English text  ||
+||       were manually checked and corrected. The text description is more in line with the reading standards of Chinese native ||
+||       speakers. All functional introductions and skill introductions in the mod are done by manual gameplay, to make up for  || 
+||       the discrepancy between the text and the actual content of the mod.                                                    ||
+||                                                                                                                              ||
+||       --Added brackets text, marked the core content of the mod, and improved the gaming experience.                         ||
+||                                                                                                                              ||
+||       --Fixed the text code format for Chinese localization. The original English text's text format was not suitable for the||
+||       Chinese localization, and could not be directly filled in and hastily done, so it was redesigned.                      ||
+||                                                                                                                              ||
+==================================================================================================================================
