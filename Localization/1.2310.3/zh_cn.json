@@ -1,0 +1,140 @@
+{
+	"layer.legendary_origins.class.name": "职业",
+	"layer.legendary_origins.profession.name": "专业",
+
+	"origin.legendary_origins.class/adventurer.name": "冒险家",
+	"origin.legendary_origins.class/adventurer.description": "[冒险家]热衷于勘探和发现，随时备有必要的[生存物品]，并对潜在危险保持警惕\n",
+	
+	"origin.legendary_origins.class/hunter.name": "猎人",
+	"origin.legendary_origins.class/hunter.description": "[猎人]多数以[远程]攻击，[物品]获取，[探测]生物[实体]能力为主\n\n①游戏开始获得[弓]和半组[箭]\n②根据[拉弓程度]，与[生物]间的[距离]，[动态]增加[投射物]的伤害\n③[猎人]会获得更多的[材料]资源:例如[皮革]，[羊毛]，[任意肉类物品]，[线]，[羽毛]，[鳞甲]，以及其他有趣的奖励\n\n§f§n探测能力§r\n①按住[shift]时获得[探测]能力，可以在[森林类]结构中[探测]到近距离的[生物实体]\n②在晚上，站在[树类结构]上和或无遮挡的[月光]下，[探测半径]会更大\n",
+
+	"origin.legendary_origins.class/magician.name": "巫师",
+	"origin.legendary_origins.class/magician.description": "[巫师]使用[元素]法术来牵制在附近的敌人[Shift+数字1-9使用法术]\n\n[巫师]的各类[法术]技能依赖于[耐力]；造成[火焰]，[寒冷]，[治疗]，[悬浮]，[闪电]皆为默认[游戏机制]的[伤害]或[效果]类型\n\n耐力在停止[奔跑]交互方向键和睡觉时恢复\n\n仅[巫师]职业使用[生命再生药水]时可恢复耐力\n",
+
+	"origin.legendary_origins.class/rogue.name": "盗贼",
+	"origin.legendary_origins.class/rogue.description": "[盗贼]将自己隐匿在阴影中，发起突然袭击如果场上的形势不利，他们总是能化险为夷\n",
+
+	"origin.legendary_origins.class/warrior.name": "战士",
+	"origin.legendary_origins.class/warrior.description": "[战士]无时无刻都想着如何运用武力如何征服沙场生物造成的大多数攻击都会反射在[盾牌]和[盔甲]上\n",
+
+	"origin.legendary_origins.class/druid.name": "德鲁伊",
+	"origin.legendary_origins.class/druid.description": "[德鲁伊]拥有超乎常人的能力使他成为优越的种族，惧怕者将其成为“兽王”大自然就是他的猎场，伟大的森林之母将会为其祝福\n",
+
+	"origin.legendary_origins.race/dwarf.name": "矮人",
+	"origin.legendary_origins.race/dwarf.description": "[矮人]为金属而生，矿洞所在之处可称为家\n\n他们被获得财富的欲望所诅咒驱使，好运永相随",
+
+	"origin.legendary_origins.race/elf.name": "精灵",
+	"origin.legendary_origins.race/elf.description": "[精灵]是一个古老的类人种族，他们崇拜大自然，拥有聪慧过人的头脑，是森林中致命的化身",
+
+	"origin.legendary_origins.race/human.name": "人类",
+	"origin.legendary_origins.race/human.description": "[人类]是适应性最强、野心最大的[种族]之一\n\n丰富多彩的风俗习惯，以活在当下为主题思想，这使其成为冒险生活的理想选择\n\n他们在[交易]中发挥重要作用",
+
+	"origin.legendary_origins.race/orc.name": "兽人",
+	"origin.legendary_origins.race/orc.description": "野蛮而无畏的[兽人]总是渴望鲜血的滋养\n\n[兽人]对其它种族极其仇视，渴望证明是世界上最凶猛的种族",
+	
+	"origin.legendary_origins.profession/farming.name": "农民",
+	"origin.legendary_origins.profession/farming.description": "[破坏][作物方块]和[击杀]人工繁殖的[动物实体]时获取更多的[食物类道具]",
+	
+	"origin.legendary_origins.profession/minning.name": "矿工",
+	"origin.legendary_origins.profession/minning.description": "[矿石方块]能被矿工[精准定位]，[矿物类]方块的[资源量]提高",
+	
+	"power.legendary_origins.race/human.name": "语言艺术",
+	"power.legendary_origins.race/human.description": "在[副手]携带[绿宝石]时，与[流浪商人]交互，可以获得[折扣buff]，每个[自然天]内仅一次",
+
+	"power.legendary_origins.race/elf.name": "森林祝福",
+	"power.legendary_origins.race/elf.description": "处于[高草类]自然植被中[降低][敌对]生物对[玩家]的敌意\n\n允许[攀爬][原木]和[树叶]类方块\n\n提高[机动性]\n\n在触地前按下[shift]可以减少[坠落]伤害;减少[中毒]伤害;提高[夜视]能力\n\n提高了在自然方块[仅限土块类]上的[移动]速度和[跳跃]高度",
+
+	"power.legendary_origins.race/orc.name": "斧类精通",
+	"power.legendary_origins.race/orc.description": "游戏开始获得[石斧]\n\n[徒手][近战]造成额外[基础]伤害\n\n提高[近战]攻击的[击退]能力\n\n提高[斧]武器的[近战]速度和伤害",
+	
+	"power.legendary_origins.race/dwarf.name": "镐类精通",
+	"power.legendary_origins.race/dwarf.description": "游戏开始获得[石镐]和[石铲]\n\n中幅提升[采矿]速度\n\n提高[镐]武器的[近战]速度和伤害\n\n在低于[自然亮度]环境下[视野亮度][减少]\n\n[减少]受到环境造成的[火焰]伤害",
+	
+	"power.legendary_origins.class/adventurer/core.name": "探险本能",
+	"power.legendary_origins.class/adventurer/core.description": "游戏开始获得:\n• [木斧]\n• [指南针]\n• [钓鱼竿]\n• [望远镜]\n• [食物]类道具\n• [书和笔]\n• 以及其他实用类道具\n\n[徒手]状态下解锁[攀爬]能力:\n• [跑步][游泳][攀爬][耐力]会消耗\n• [耐力]可以通过:\n①停止[奔跑]交互方向键\n②[睡觉]来补充\n③仅冒险家:靠近[营火]加速补充\n",
+	
+	"power.legendary_origins.class/adventurer/backpack.name": "背包",
+	"power.legendary_origins.class/adventurer/backpack.description": "额外储存物品\n• 储格大\n• [死亡]不掉落\n• 激活: [起源-首要能力键]\n",
+	
+	"power.legendary_origins.class/adventurer/pocket.name": "收纳袋",
+	"power.legendary_origins.class/adventurer/pocket.description": "额外储存物品\n• 储格小\n• [死亡]不掉落\n• 激活: [起源-备用能力键]",
+	
+	"power.legendary_origins.class/warrior/rage.name": "不可阻挡",
+	"power.legendary_origins.class/warrior/rage.description": "每次[击杀]会获得[怒气buff]\n• 效果:提高[近战]伤害\n• 激活:[起源-首要能力键]\n",
+
+	"power.legendary_origins.class/warrior/tank.name": "牢不可破",
+	"power.legendary_origins.class/warrior/tank.description": "每次[战士]在携带[盾牌]受到[近战]伤害时，[实体]造成的部分伤害将逐渐积累[防御力buff]\n• 功能:叠满暂时获得[免疫]效果\n• 激活:[起源-备用能力键]\n\n§f§n盾击§r\n• 冲锋造成[近战]伤害并击退\n• 激活:[Shift]+[右键]\n• 距离: 5 格\n• 冷却时间:10秒",
+	
+	"power.legendary_origins.class/magician/fireball.name": "火术[1]",
+	"power.legendary_origins.class/magician/fireball.description": "• 使目标[着火]的魔力球\n• [消耗] 10 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/arcane_shot.name": "奥术[2]",
+	"power.legendary_origins.class/magician/arcane_shot.description": "• 使目标[悬浮]的魔力球\n• [消耗] 10 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/lightning.name": "电术[3]",
+	"power.legendary_origins.class/magician/lightning.description": "• 召唤一道[闪电]劈下\n• [消耗] 10 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/fire_shield.name": "火之盾[4]",
+	"power.legendary_origins.class/magician/fire_shield.description": "• 在玩家周围生成[火焰]\n• [消耗] 10 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/ice_shield.name": "冰之盾[5]",
+	"power.legendary_origins.class/magician/ice_shield.description": "• 玩家被冰包裹\n• 释放大范围[挖掘疲劳]效果\n• [消耗] 20 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/lightning_shield.name": "电之盾[6]",
+	"power.legendary_origins.class/magician/lightning_shield.description": "• 召唤多道[闪电]劈下\n• [消耗] 20 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/lava_trap.name": "熔岩陷阱[7]",
+	"power.legendary_origins.class/magician/lava_trap.description": "• 使目标[受困]岩浆块\n• [消耗] 40 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/ice_trap.name": "寒冰陷阱[8]",
+	"power.legendary_origins.class/magician/ice_trap.description": "• 使目标[受困]冰块\n• [消耗] 20 [耐力点数]\n",
+	
+	"power.legendary_origins.class/magician/healing.name": "治疗术[9]",
+	"power.legendary_origins.class/magician/healing.description": "• [治疗]玩家五颗心\n• [消耗] 40 [耐力点数]\n",
+	
+	"power.legendary_origins.class/hunter/core.name": "箭袋",
+	"power.legendary_origins.class/hunter/core.description": "箭袋可以[储存]更多的[箭]，也可以储存其他[物品]\n• 储格小\n• [死亡]时不掉落\n• 激活: [起源-首要能力键]\n",
+	
+	"power.legendary_origins.class/hunter/recipes.name": "制箭大师",
+	"power.legendary_origins.class/hunter/recipes.description": "• 解锁新的造箭[配方]\n• 可以把造箭台当成工作台\n",
+	
+	"power.legendary_origins.class/hunter/shots.name": "迅捷射击",
+	"power.legendary_origins.class/hunter/shots.description": "[弓]解锁在[副手]装备规定物品射击有额外的[特殊效果buff]\n\n• 穿刺射击:忽略护甲的致命伤害\n  -需求:[钻石]\n\n• 爆炸射击:撞击时爆炸\n  -需求:[火焰弹]\n\n• 地狱射击:使目标受到火焰伤害\n -PS:此火焰无法被水扑灭\n  -需求:[岩浆膏]\n\n• 闪电射击:有几率召唤闪电\n -PS:仅在下雨时有效\n  -需求:[避雷针]\n\n• 毒物射击:产生中毒和反胃效果\n  -需求:[绯红菌]\n\n• 枯萎射击:造成枯萎效果\n  -需求:[地狱疣]\n\n• 麻痹射击:造成减速和虚弱效果\n  -需求:[诡异菌]\n\n• 悬浮射击:悬浮目标\n  -需求:[末地烛]\n\n• 传送射击:传送到击中生物处\n  -需求:[末影珍珠]\n\n• 治疗射击:完全治疗击中的玩家\n  -需求:[附魔金苹果]",
+
+	"power.legendary_origins.class/druid/eagle_aspect.name": "化身为鹰",
+	"power.legendary_origins.class/druid/eagle_aspect.description": "[变身期间]允许[探测]所有生物\n以[白色]轮廓显示\n\n• [变身期间]仅食用:生鸡/兔肉\n• 激活: [SHIFT + 1]\n• 向上: [起源-首要能力键]\n• 飞行: [空格]\n• 取消: [起源-备用能力键]\n• 时长:1 分钟\n",
+	
+	"power.legendary_origins.class/druid/dolphin_aspect.name": "化身为豚",
+	"power.legendary_origins.class/druid/dolphin_aspect.description": "获得[高额]的[游泳]速度\n离开水后，每隔1到2秒后固定[扣除]红心\n\n• [变身期间]仅食用:生鱼\n• [徒手]近战攻击可食用的鱼类生\n  物实体直接[补充]大额[饥饿值]\n• 激活: [SHIFT + 2]\n• 取消: [起源-备用能力键]\n• 时常: 2 分钟\n",
+
+	"power.legendary_origins.class/druid/wolf_aspect.name": "化身为狼",
+	"power.legendary_origins.class/druid/wolf_aspect.description": "获得[徒手]攻击加成和速度\n\n• [变身期间]仅食用:生肉\n• 激活: [SHIFT + 3]\n• 取消: [起源-备用能力键]\n• 时常: 3 分钟\n",
+
+	"power.legendary_origins.class/druid/mole_aspect.name": "化身为鼹鼠",
+	"power.legendary_origins.class/druid/mole_aspect.description": "对中毒免疫\n解锁[攀爬]能力\n允许[徒手]挖掘\n获得[固定失明debuff]\n[徒手]挖掘仅能[精准采集]矿物\n可以在近距离探测矿物并发出绿色的粒子效果提示\n\n• [变身期间]仅食用:蜘蛛眼/甜菜\n• 激活: [SHIFT + 4]\n• 取消: [起源-备用能力键]\n• 时常: 4 分钟\n",
+
+	"power.legendary_origins.class/druid/superior_pets.name": "优越者的宠物",
+	"power.legendary_origins.class/druid/superior_pets.description": "在[化身为狼]期间，你可以用[兔脚]驯服[野狼]，它们将拥有更高的[生命值]，[攻击]和[防御]加成",
+	
+	"power.legendary_origins.class/rogue/core.name": "潜行模式",
+	"power.legendary_origins.class/rogue/core.description": "①[跳跃距离]提升\n②免疫[失明][黑暗][减速][debuff]\n③具有的[夜视]能力，在[潜行模式]下获得暂时[隐身]\n④如果在落地前按住[shift]可以减少[坠落]伤害\n⑤在[潜行模式]下，[实体]在背对[玩家]使用[剑类武器]可一击致命\n⑥在[自然亮度]低于2或夜间时:\n附近生物靠近玩家有心跳声提示\n⑦在[潜行模式]下，可以偷取[村民]得物品，若被发现将[锁定]与[村民]的[交互]能力，在[村民]积累的所有[声望]大幅下降\n\n• 上述能力激活: 长按Shift键\n• 以上能力都消耗[耐力]\n• [耐力]可以通过:\n①停止[奔跑]交互方向键\n②[睡觉]来补充\n",
+	
+	"power.legendary_origins.class/rogue/double_jump.name": "忍者能力",
+	"power.legendary_origins.class/rogue/double_jump.description": "解锁[二段跳]技能\n• 激活: [空格]\n",
+	
+	"power.legendary_origins.class/rogue/climbing.name": "翻山越岭",
+	"power.legendary_origins.class/rogue/climbing.description": "解锁[攀爬]能力\n• 可攀爬: [所有]方块\n• [攀爬][耐力]会消耗\n• 激活: 长按Shift\n• [耐力]可以通过:\n①停止[奔跑]交互方向键\n②[睡觉]来补充\n",
+	
+	"power.legendary_origins.class/rogue/shots.name": "灵活射击",
+	"power.legendary_origins.class/rogue/shots.description": "[十字弩]在[副手]装备规定物品射击有额外的[特殊效果buff]\n\n• 失明射击:造成[失明]效果\n  -需求:[绯红菌索]\n\n• 毒物射击:造成[中毒]效果\n  -需求:[诡异菌索]\n\n• 精准射击:提高[暴击伤害]\n  -需求:[钻石]\n",
+	
+	"power.legendary_origins.class/rogue/ender_chest.name": "暗影储物",
+	"power.legendary_origins.class/rogue/ender_chest.description": "额外[储存]空间\n• 该储存与[末影箱]同步\n• [死亡]不掉落\n• 激活: [起源-首要能力键]",
+	
+	"power.legendary_origins.profession/farming.name": "农民本能",
+	"power.legendary_origins.profession/farming.description": "在作物上使用[骨粉]可使附近的[3 格]半径内的作物受益\n\n从肉类获取的资源增多",
+	
+	"power.legendary_origins.profession/minning.name": "矿工本能",
+	"power.legendary_origins.profession/minning.description": "采矿[挖掘]速度提升\n矿石[能见度]提高"
+	
+}

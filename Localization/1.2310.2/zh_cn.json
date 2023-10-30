@@ -1,0 +1,127 @@
+{
+	"layer.legendary_origins.class.name": "职业",
+
+	"origin.legendary_origins.class/adventurer.name": "冒险家",
+	"origin.legendary_origins.class/adventurer.description": "探险家热衷于勘探和发现，随时备有必要的生存物品，并对潜在危险保持警惕。\n",
+	
+	"origin.legendary_origins.class/hunter.name": "猎人",
+	"origin.legendary_origins.class/hunter.description": "猎人多数以远程攻击和射箭技能为主。\n\n游戏开始时获得弓和半组箭。\n\n潜行时获得探测能力，可以发现森林中近距离的生物。\n\n在晚上，站在树顶和或无遮挡的月光下，探测半径会更大。\n\n根据拉弓聚焦距离增加投射伤害。\n\n猎人会获得比平常更多的材料和资源:例如皮革，羊毛，任意肉，蜘蛛线，羽毛，乌龟甲，以及其他有趣的奖励。\n",
+
+	"origin.legendary_origins.class/magician.name": "巫师",
+	"origin.legendary_origins.class/magician.description": "巫师会使用奥术或元素法术来牵制在附近的敌人。[Shift+数字1-9使用法术]\n\n巫师的进攻、防御法术和魔法陷阱都依赖于魔力。\n\n魔力恢复相交缓慢。\n\n可使用生命再生药水恢复魔力。\n",
+
+	"origin.legendary_origins.class/rogue.name": "盗贼",
+	"origin.legendary_origins.class/rogue.description": "盗贼将自己隐匿在阴影中，发起突然袭击。如果场上的形势不利，他们总是能化险为夷。\n",
+
+	"origin.legendary_origins.class/warrior.name": "战士",
+	"origin.legendary_origins.class/warrior.description": "战士无时无刻都想着如何运用武力如何征服沙场。生物造成的大多数攻击都会反射在他们的盾牌和盔甲上。\n",
+
+	"origin.legendary_origins.class/druid.name": "德鲁伊",
+	"origin.legendary_origins.class/druid.description": "德鲁伊拥有超乎常人的能力使他成为优越的种族，惧怕者将其成为“兽王”。大自然就是他的猎场，伟大的森林之母将会为其祝福。\n",
+
+	"origin.legendary_origins.race/dwarf.name": "矮人",
+	"origin.legendary_origins.race/dwarf.description": "矮人以骁勇善战而著称，他们是天生的矿工和工匠，石头和金属所在之处可称为家。\n\n他们被获得财富的欲望所诅咒驱使，好运永相随。",
+
+	"origin.legendary_origins.race/elf.name": "精灵",
+	"origin.legendary_origins.race/elf.description": "精灵是一个古老的类人种族，他们崇拜大自然，拥有聪慧过人的头脑，在森林时则是致命的化身。",
+
+	"origin.legendary_origins.race/human.name": "人类",
+	"origin.legendary_origins.race/human.description": "人类是所有种族中适应性最强、野心最大的。\n\n丰富多彩的风俗习惯，以活在当下为主题思想，这使其成为冒险生活的理想选择。\n\n他们的魅力在交易中发挥重要作用。",
+
+	"origin.legendary_origins.race/orc.name": "兽人",
+	"origin.legendary_origins.race/orc.description": "野蛮而无畏的兽人总是渴望鲜血的滋养。\n\n他的动机是对文明种族的仇恨，渴望证明自己是世界上最凶猛的战士。",
+	
+	"power.legendary_origins.race/human.name": "能力",
+	"power.legendary_origins.race/human.description": "语言艺术:当人类在与流浪商人互动时，主手持有1颗绿宝石时，可贿赂他从附近村庄的所有商人那里获得可观的折扣，每天有且只有一次。",
+
+	"power.legendary_origins.race/elf.name": "能力",
+	"power.legendary_origins.race/elf.description": "当隐藏在高草丛或灌木丛中时几乎无法被发现。\n\n解锁爬树技能，通过树叶前进或伪装。\n\n臂力和腿部肌肉惊人，具有极高的机动，可以十分轻松地从一棵树到另一棵树。\n\n在触地前按下shift可以减少坠落伤害。具有中等的抗毒能力和极强的夜视能力。\n\n在泥土上的移动速度和跳跃高度要比在其他环境中要更好。",
+
+	"power.legendary_origins.race/orc.name": "能力",
+	"power.legendary_origins.race/orc.description": "游戏开始时获得石斧。\n\n具备天生的蛮力和额外的基础伤害，他无疑是一个危险的对手。\n\n还具备天生的击退能力。\n\n斧头不仅仅是一个工具，通过后天的训练和持续使用可以提高攻击速度和伤害，把它变成一个强大的战争武器。",
+	
+	"power.legendary_origins.race/dwarf.name": "能力",
+	"power.legendary_origins.race/dwarf.description": "游戏开始时获得石镐和石铲。\n\n采矿速度优于其他种族。\n\n石镐作为一种经常使用的工具，也可以成为一种武器，增加了它的伤害和攻击速度。\n\n在黑暗中视力下降。\n\n由于长期暴露在地心深处的热量下，它们获得了非凡的耐高温能力。",
+	
+	"power.legendary_origins.class/adventurer/core.name": "能力",
+	"power.legendary_origins.class/adventurer/core.description": "游戏开始时获得斧头，指南针，鱼竿，望远镜，食物，书和笔等等。\n\n若空手，可解锁爬树，爬山和洞穴，代价是需要耐力。\n\n当跑步、游泳或爬山时，耐力会被消耗殆尽，可通过原地不动或睡觉慢慢恢复。\n",
+	
+	"power.legendary_origins.class/adventurer/backpack.name": "背包",
+	"power.legendary_origins.class/adventurer/backpack.description": "每个冒险家总是带着一个有足够空间的背包来存放生存必需品。[起源-主要能力键(推荐绑定-G)]\n",
+	
+	"power.legendary_origins.class/adventurer/pocket.name": "收纳袋",
+	"power.legendary_origins.class/adventurer/pocket.description": "可以额外快速存取或存储重要或有价值的物品。即使冒险者死亡，这些物品也会被保存。[起源-次要能力建(推荐绑定-F)]",
+	
+	"power.legendary_origins.class/warrior/rage.name": "不可阻挡",
+	"power.legendary_origins.class/warrior/rage.description": "每次击杀，战士就会增加他对鲜血和湮灭的渴望，然后爆发出致命的致命一击。[起源-主要能力键(推荐绑定-G)]\n",
+
+	"power.legendary_origins.class/warrior/tank.name": "牢不可破",
+	"power.legendary_origins.class/warrior/tank.description": "每次战士在携带盾牌受到物理伤害时，吸收部分伤害的能力将逐渐积累防御力，累计满后可令其获得暂时的免疫。[起源-次要能力建(推荐绑定-F)]\n\n盾击:\n• 使用防御力量冲锋，伤害并击退前方的敌人[实测15到20颗红心的伤害]。\n• 激活:\n[Shift]+[右键]\n• 距离: 5 格\n• 冷却时间:10秒.",
+	
+	"power.legendary_origins.class/magician/fireball.name": "火球[1]造成中等伤害和燃烧效果",
+	"power.legendary_origins.class/magician/fireball.description": "消耗: 10 MP",
+	
+	"power.legendary_origins.class/magician/arcane_shot.name": "奥术射击[2]使目标悬浮的能量球",
+	"power.legendary_origins.class/magician/arcane_shot.description": "消耗: 10 MP",
+	
+	"power.legendary_origins.class/magician/lightning.name": "电击[3]从天空向目标召唤一道闪电",
+	"power.legendary_origins.class/magician/lightning.description": "消耗: 10 MP",
+	
+	"power.legendary_origins.class/magician/fire_shield.name": "火之盾[4]包围巫师的火之屏障,目标触碰后受到火焰伤害",
+	"power.legendary_origins.class/magician/fire_shield.description": "消耗: 10 MPP",
+	
+	"power.legendary_origins.class/magician/ice_shield.name": "冰之盾[5]保护巫师的冰之屏障,目标触碰后受到减速效果",
+	"power.legendary_origins.class/magician/ice_shield.description": "消耗: 20 MP",
+	
+	"power.legendary_origins.class/magician/lightning_shield.name": "电之盾[6]包围巫师的电之屏障,周期性地产生放电伤害效果",
+	"power.legendary_origins.class/magician/lightning_shield.description": "消耗: 20 MP",
+	
+	"power.legendary_origins.class/magician/lava_trap.name": "熔岩陷阱[7]令目标受困岩浆中,持续造成火焰伤害",
+	"power.legendary_origins.class/magician/lava_trap.description": "消耗: 40 MP",
+	
+	"power.legendary_origins.class/magician/ice_trap.name": "寒冰陷阱[8]让目标受困冰块中，持续造成减速和寒冷伤害",
+	"power.legendary_origins.class/magician/ice_trap.description": "消耗: 20 MP",
+	
+	"power.legendary_origins.class/magician/healing.name": "治疗[9]为巫师治疗5颗心",
+	"power.legendary_origins.class/magician/healing.description": "消耗: 40 MP",
+	
+	"power.legendary_origins.class/hunter/core.name": "箭袋",
+	"power.legendary_origins.class/hunter/core.description": "箭筒的设计是为了储存箭，允许更多的空间在库存。即使猎人死了，这些箭也会被保存下来。[起源-主要能力键(推荐绑定-G)]\n",
+	
+	"power.legendary_origins.class/hunter/recipes.name": "造箭台",
+	"power.legendary_origins.class/hunter/recipes.description": "猎人可以把各种不同的材料直接放在造箭台上制作箭。他也可以把它当成工作台。\n",
+	
+	"power.legendary_origins.class/hunter/shots.name": "掷物射击",
+	"power.legendary_origins.class/hunter/shots.description": "将副手装备的一些物品与箭相结合，猎人可以向生物发射不同的有效射击。\n\n穿刺射击:忽略护甲的致命伤害[需求-钻石]\n\n爆炸射击:撞击时爆炸[需求-火焰弹]\n\n地狱射击:将目标烧死。水无法浇灭由该形式造成的火焰。[需求-岩浆膏]\n\n闪电射击:如果下雨，有机会用闪电击中目标[需求-避雷针]\n\n毒射:在冲击伤害后产生中毒和反胃效果[需求-绯红菌]\n\n枯萎射击:导致枯萎[需求-地狱疣]\n\n麻痹射击:造成缓慢和虚弱[需求-诡异菌]\n\n悬浮射击:悬浮目标[需求-末地烛]\n\n传送射击:传送猎人到受影响的生物[需求-末影珍珠]\n\n治疗射击:完全治疗受影响的玩家[需求-附魔金苹果]",
+
+	"power.legendary_origins.class/druid/eagle_aspect.name": "化身为鹰",
+	"power.legendary_origins.class/druid/eagle_aspect.description": "这是从高海拔探索的完美角度。它能探测到所有生物。\n\n• 仅可食用:生鸡肉和兔肉。\n• 激活: [SHIFT + 1]\n• 向上: [起源-主要能力键(推荐绑定-G)]\n• 飞行: [空格]\n• 取消: [起源-次要能力建(推荐绑定-F)]\n• 时长:1 分钟。\n",
+	
+	"power.legendary_origins.class/druid/dolphin_aspect.name": "化身为豚",
+	"power.legendary_origins.class/druid/dolphin_aspect.description": "幻化为一只海豚，具有高额的游泳速度。离开水后，每隔1到2秒后固定扣除3颗红心。\n\n• 仅可食用:生鱼\n(当你没有武器攻击它们时，你可以在游泳时直接吃掉它们。).\n• 激活: [SHIFT + 2]\n• 取消: [起源-次要能力建(推荐绑定-F)]\n• 时常: 2 分钟。\n",
+
+	"power.legendary_origins.class/druid/wolf_aspect.name": "化身为狼",
+	"power.legendary_origins.class/druid/wolf_aspect.description": "作为头狼，拥有徒手攻击加成和速度。\n\n• 仅可食用:生肉.\n• 激活: [SHIFT + 3]\n• 取消: [起源-次要能力建(推荐绑定-F)]\n• 时常: 3 分钟。\n",
+
+	"power.legendary_origins.class/druid/mole_aspect.name": "化身为鼹鼠",
+	"power.legendary_origins.class/druid/mole_aspect.description": "固定失明debuff，但在5格内有夜视效果。\n\n对中毒免疫。\n\n解锁徒手挖掘，并允许攀爬。\n\n可以在一定距离的墙后探测到矿物并发出绿色的闪光。\n\n徒手挖掘不能开采矿石，但可以分离矿物。\n\n• 仅可食用: 蜘蛛眼和甜菜根\n• 激活: [SHIFT + 4]\n• 取消: [起源-次要能力建(推荐绑定-F)]\n• 时常: 4 分钟。\n",
+
+	"power.legendary_origins.class/druid/superior_pets.name": "优越者的宠物",
+	"power.legendary_origins.class/druid/superior_pets.description": "在化身为狼期间，你可以用兔子脚驯服其他野狼。这些狼将有一个增强的生命值，攻击和防御加成。",
+	
+	"power.legendary_origins.class/rogue/core.name": "能力",
+	"power.legendary_origins.class/rogue/core.description": "依靠能量来完成大部分动作，耐力可以通过原地不动或睡觉来补充。\n\n如果在落地前按住shift可以减少坠落伤害。\n\n潜行模式将在方块自然亮度低于2时或夜间时激活。(若附近生物靠近则以心跳声为提示)。\n\n具有出色的夜视能力，开启潜行模式则暂时隐身。\n\n在潜行模式下，靠近目标背后使用剑或刀可一击致命。\n\n使用弩进行远程攻击时若副手携带了固定的物品，可以触发特殊效果。\n\n免疫失明，黑暗和缓慢debuff。\n\n跳得更远。\n\n解锁攀爬技能。\n\n在潜行模式下，可以偷取村民得物品，但如果被发现，将无法与他们中的任何一个进行交易，暂时声名受损。\n",
+	
+	"power.legendary_origins.class/rogue/double_jump.name": "二段跳",
+	"power.legendary_origins.class/rogue/double_jump.description": "二段跳是盗贼的专属技能。[连续两次空格]\n",
+	
+	"power.legendary_origins.class/rogue/climbing.name": "攀爬",
+	"power.legendary_origins.class/rogue/climbing.description": "可以攀登任何障碍，在耐力充足得情况下。[靠近攀爬点:方向键 w-a-s-d]\n",
+	
+	"power.legendary_origins.class/rogue/shots.name": "携物射击",
+	"power.legendary_origins.class/rogue/shots.description": "使用弩进行远程攻击时若副手携带了固定的物品，可以触发特殊效果。\n\n• 暗射:绯红菌索[失明]\n\n• 毒射:诡异菌索[中毒]\n\n• 暴射:钻石[暴击伤害]\n",
+	
+	"power.legendary_origins.class/rogue/ender_chest.name": "末影箱",
+	"power.legendary_origins.class/rogue/ender_chest.description": "游戏开始时获得一个末影箱。"
+	
+}
