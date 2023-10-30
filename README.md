@@ -1,6 +1,6 @@
-The offical Chinese translation repository of Legendary Origins
+Legendary-Origins 的官方汉化中文储存库
 ===========================
-### Legendary-Origins 的官方汉化中文储存库
+### The offical Chinese translation repository of Legendary Origins
 
 ****
 ![image](https://github.com/White-Biggy/Chinese-Localization-Hub/assets/149329235/41624a73-de36-4e45-8f6d-bc69e120474c)
