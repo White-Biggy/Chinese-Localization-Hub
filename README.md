@@ -9,8 +9,6 @@ Legendary-Origins 的官方汉化中文储存库
 
 </div>
 
-****
-
 <div align="center">
 
 |![Webname-sheild]|![Weblink-shield]|
