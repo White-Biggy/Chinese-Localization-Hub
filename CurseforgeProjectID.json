@@ -1,0 +1,24 @@
+{
+  "project": {
+    "id": 922484,
+    "title": "Legendary Origins",
+    "description": "Legendary Races, Classes and Professions for an immersive Minecraft RPG and PVP game style.",
+    "class": "Mods",
+    "author": {
+      "name": "Zerofire",
+      "url": "[Zerofire]"
+    },
+    "created": 1634016000,
+    "updated": 1635398400,
+    "downloads": 1565,
+    "versions": ["1.20.1", "1.20"],
+    "mod_loaders": ["Fabric"],
+    "categories": ["Magic", "Adventure and RPG"],
+    "main_file": {
+      "name": "[Legendary Origins 1.2310.3]",
+      "channel_tag": "[R]",
+      "mod_loader": "[Fabric]",
+      "date": 1635398400
+    }
+  }
+}
